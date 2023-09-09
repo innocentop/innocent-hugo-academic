@@ -1,7 +1,7 @@
 ---
 title: Innocent Smith, o.p.
 role: Assistant Professor
-avatar_filename: portrait.jpg
+avatar_filename: portrait2021.jpeg
 bio: ""
 interests:
   - Liturgy
