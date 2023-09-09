@@ -27,7 +27,7 @@ sections:
         provider: netlify
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+          captcha: false
     design:
       columns: '2'
 ---
