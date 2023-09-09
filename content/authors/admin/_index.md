@@ -32,10 +32,10 @@ education:
       year: 2008
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: 
+last_name: Smith
 highlight_name: true
-first_name: Alice
+first_name: Innocent
 email: ""
 ---
 Innocent Smith, O.P., is Visiting Assistant Professor of Dogmatic Theology and Pastoral Studies at the [Dominican House of Studies](https://dhs.edu/), Washington, DC. After undergraduate studies in music and philosophy at the University of Notre Dame, he entered the Order of Preachers in 2008 and was ordained priest in 2015. Smith served in parish ministry for several years before completing a doctorate in liturgical studies at the University of Regensburg in 2021. Fr. Innocent’s teaching and research interests include liturgy, sacramental theology, codicology, homiletics and sacred music.
